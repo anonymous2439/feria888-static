@@ -1,1 +1,0 @@
-import{a as e}from"./entry.5c2019d3.js";import{I as r,q as c}from"./swiper-vue.883ed7d0.js";const o={};function t(n,a){return c(),r("h2",null,"Member")}const _=e(o,[["render",t]]);export{_ as default};
