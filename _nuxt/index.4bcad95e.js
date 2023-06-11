@@ -1,0 +1,1 @@
+import{u as o}from"./cookie.cbf7f670.js";import{H as e,q as s,I as a}from"./swiper-vue.24fc5e92.js";import"./entry.78981985.js";const t={class:"dashboard-page"},c=a("h2",{class:"page-title"},"Dashboard",-1),i=[c],u={__name:"index",setup(n){return o("user_info").value||window.location.replace("/admin/login"),(_,d)=>(s(),e("div",t,i))}};export{u as default};
