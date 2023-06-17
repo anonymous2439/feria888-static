@@ -1,1 +1,0 @@
-import{H as e,q as s,L as a}from"./swiper-vue.139b05b4.js";const t={class:"dashboard-page"},o=a("h2",{class:"page-title"},"Dashboard",-1),c=[o],i={__name:"index",setup(_){return(r,n)=>(s(),e("div",t,c))}};export{i as default};
