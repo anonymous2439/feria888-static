@@ -1,1 +1,0 @@
-import{a as n}from"./entry.9884b09d.js";import{H as o,$ as t,q as _}from"./swiper-vue.cf378b39.js";const s={},a={id:"login-page"};function d(e,r){return _(),o("div",a,[t(e.$slots,"default",{},void 0,!0)])}const f=n(s,[["render",d],["__scopeId","data-v-5476647f"]]);export{f as default};
